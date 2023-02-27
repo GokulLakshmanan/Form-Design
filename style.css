@@ -1,0 +1,38 @@
+h1 {
+    color: red;
+}
+
+.input-container {
+    width:250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-notes {
+    width: 250px;
+}
+
+textarea {
+    margin-top: 10px;
+text-align: left !important;
+    width: 250px;
+}
+
+
+.input-percentage{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+.input-date{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+table,th,td{
+    border: 1px solid;
+}
